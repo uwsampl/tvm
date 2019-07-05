@@ -18,6 +18,8 @@
 <img src=https://raw.githubusercontent.com/tqchen/tvm.ai/master/images/logo/tvm-logo-small.png width=128/> Open Deep Learning Compiler Stack
 ==============================================
 
+**THIS IS A CUSTOM VERSION OF TVM BUILT FOR THE FCRC TUTORIAL**
+
 [![GitHub license](https://dmlc.github.io/img/apache2.svg)](./LICENSE)
 [![Build Status](http://ci.tvm.ai:8080/buildStatus/icon?job=tvm/master)](http://ci.tvm.ai:8080/job/tvm/job/master/)
 
